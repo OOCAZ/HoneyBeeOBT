@@ -11,7 +11,7 @@
     "test-workflows": "jest --coverage --silent"
   },
   "dependencies": {
-    "@auth0/nextjs-auth0": "^3.3.0",
+    "@auth0/nextjs-auth0": "^4.0.0",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
